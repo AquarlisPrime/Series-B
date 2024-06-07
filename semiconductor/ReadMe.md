@@ -4,7 +4,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/your-username/your-repository)
 ![GitHub issues](https://img.shields.io/github/issues/your-username/your-repository)
 
-This repository contains an implementation of a Variational Autoencoder (VAE) using TensorFlow/Keras for predicting band gap properties in a dataset of condensed binary 2D geometries.
+This file contains an implementation of a Variational Autoencoder (VAE) using TensorFlow/Keras for predicting band gap properties in a dataset of condensed binary 2D geometries.
 
 ## Overview
 
