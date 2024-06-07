@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/AquarlisPrime/Series-B/raw/main/semiconductor/Semiconductor_Geometerics.png" alt="Project Logo" width="400" height="auto">
-</p>
-
 # Variational Autoencoder (VAE) for Band Gap Prediction in Condensed Binary 2D Geometry
 
 ![GitHub](https://img.shields.io/github/license/your-username/your-repository)
