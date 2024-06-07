@@ -85,5 +85,3 @@ plt.show()
 Contributions and feedback are welcome! Please feel free to fork this repository, open issues, and submit pull requests to help improve this project.
 
 ```
-
-Replace `"https://your-project-image-url.png"` with the actual URL to your project's logo or relevant image. This version incorporates badges for license, repository size, and issues, making it more visually appealing and informative. Adjust the badges and other details as per your actual GitHub repository.
